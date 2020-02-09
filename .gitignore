@@ -2,7 +2,7 @@
 /node_modules
 
 #assests 
-/assests
+/assets
 
 #environmental variables
 .env
