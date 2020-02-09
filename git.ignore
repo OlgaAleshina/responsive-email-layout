@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+#assests 
+/assests
+
+#environmental variables
+.env
