@@ -19,7 +19,7 @@
         <mj-divider border-color="#F45E43" border-width="2px" width="400px"></mj-divider>
         </mj-column>
         <mj-column width="150px">
-        <mj-image src="https://comfort-group.ru/assets/images/logo.png" alt='logo'>
+        <mj-image src="https://comfort-group.ru/assets/images/logo.png" alt='logo'/>
         </mj-column>
       </mj-section >
       <mj-section>
@@ -41,7 +41,7 @@
     <mj-text mj-class="header1"><strong>Личный кабинет группы КОМФОРТ</strong></mj-text>
       <mj-section>
       <mj-column width="300px">
-        <mj-image src="https://i.postimg.cc/0QtBT0C5/laptop.png" alt='laptop'>
+        <mj-image src="https://i.postimg.cc/0QtBT0C5/laptop.png" alt='laptop'/>
        </mj-column>
        <mj-column width="300px">
         <mj-wrapper mj-class="orange-block" > <mj-text color="#FFFFFF"> Текущий баланс</mj-text> 
@@ -64,36 +64,36 @@
       <mj-column>
         <mj-table  font-size = "11px" line-height = "12px">
           <tr >
-            <td align="right" style=""colspan="2">заказать услуги Мастера на все руки</td>
-            <td align="center" style="width: 12%;"><img style = "width: 70%; hight: auto;" src = "https://i.postimg.cc/9fWxwFJg/bell.jpg"></td>
+            <td align="right" colspan="2">заказать услуги Мастера на все руки</td>
+            <td align="center" style="width: 12%;"><img style = "width: 70%; hight: auto;" src = "https://i.postimg.cc/9fWxwFJg/bell.jpg"/></td>
             <td align="center" style="width: 12%;"><img style = "width: 70%; hight: auto;" src = "https://i.postimg.cc/wTXZ1P9v/barrier.png"/></td>
             <td style=""colspan="2">Заказать пропуск в паркинг</td>
           </tr>
           <tr >
             <td align="right" style=" ">Узнать актуальные новости и обновления</td>
-             <td align="right" style=" width: 12%; "><img  style = "width: 70%; hight: auto;" src="https://i.postimg.cc/PqsCSPBK/question.png"></td>
+             <td align="right" style=" width: 12%; "><img  style = "width: 70%; hight: auto;" src="https://i.postimg.cc/PqsCSPBK/question.png"/></td>
              <td align="center" style="padding: 10px;" rowspan="4" colspan="2"><img  src= "https://i.postimg.cc/DfDzwSB6/cell.jpg" />   
-              <td align="center" style="  width: 12%; "><img style = "width: 70%; hight: auto;" src = "https://i.postimg.cc/JzBqyHNQ/megaphone.png"</td>
-              <td style="">Создать заявку на устранение неисправности</td>  
+              <td align="center" style="  width: 12%; "><img style = "width: 70%; hight: auto;" src = "https://i.postimg.cc/JzBqyHNQ/megaphone.png"/></td>
+              <td >Создать заявку на устранение неисправности</td>  
           </tr>
           <tr>
               <td align="right"style="  ">Посмотреть информацию о начислениях</td>
               <td align="center" style=" "><img style = "width: 70%; hight: auto;" src="https://i.postimg.cc/MTZKLRt0/repair.png"/></td>
               <td align="right" style=""><img style = "width: 70%; hight: auto;" src="https://i.postimg.cc/3rtH8NFR/meter-box.png"></td>
-              <td style="">Передать показания ИПУ </td>
+              <td style="padding:4px;">Передать показания ИПУ </td>
           <tr>
-              <td align="right" style=" ">Оплатить ЖКУ и подключить услугу "Автоплатеж"</td>
-              <td align="right" style="  "><img style = "width: 70%; hight: auto;" src="https://i.postimg.cc/9MyKyNyJ/ruble.jpg"></td>
-              <td align="right" style=""><img style = "width: 70%; hight: auto;"src="https://i.postimg.cc/xTXB9Rdx/mail.jpg"></td>
-              <td  style="">Написать обращения в управляющую организацию</td>
+              <td align="right" >Оплатить ЖКУ и подключить услугу "Автоплатеж"</td>
+              <td align="right" style="  "><img style = "width: 70%; hight: auto;" src="https://i.postimg.cc/9MyKyNyJ/ruble.jpg"/></td>
+              <td align="right" style=""><img style = "width: 70%; hight: auto;"src="https://i.postimg.cc/xTXB9Rdx/mail.jpg"/></td>
+              <td  style="padding:4px;">Написать обращения в управляющую организацию</td>
            </tr>
            <tr>
-              <td align="right" style="" colspan="2">Мобильное приложение Группы Комфорт - это новый уровень общения собственников недвижимости с управляющей организацей</td>
-              <td align="left" style=""><img style = "width: 70%; hight: auto;"src = "https://i.postimg.cc/TY8YMpdD/camera.png"></td>
+              <td align="left" style="" colspan="2"><span style="color:#F45E43"><strong>Мобильное приложение <br>Группы КОМФОРТ - </strong></span> это новый уровень общения собственников недвижимости с управляющей организацей</td>
+              <td align="left" style=""><img style = "width: 70%; hight: auto;"src = "https://i.postimg.cc/TY8YMpdD/camera.png"/></td>
               <td style="">Сделать фотографию и отправить замечание</td>
             </tr> 
             
-          <mj-table>
+          </mj-table>
       </mj-column>
     </mj-section>
 </mj-body>
