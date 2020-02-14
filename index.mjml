@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Единый платежный документ за январь</mj-title>
+    <mj-title>Единый платёжный документ за январь</mj-title>
     <mj-attributes>
       <mj-text font-size="16px" font-family="Tahoma" color="#000000" line-height="22px" />
       <mj-class name="header" font-size="25px" color="#06007c" align="center" />
@@ -27,7 +27,7 @@
         <mj-text mj-class="header"><strong>Единый платежный документ за январь</strong></mj-text>
         <mj-spacer height="20px" />
         <mj-text><strong>Уважаемый клиент!</strong></mj-text>
-        <mj-text>Направляем Вам <a href="https://comfort-group.ru/"> Единый платежный документ за январь 2020 года</a> по лицевому счету 00000000012345. Нажмите ссылку для скачивания документа.</mj-text>
+        <mj-text>Направляем Вам <a href="https://comfort-group.ru/"> Единый платёжный документ за январь 2020 года</a> по лицевому счету 00000000012345. Нажмите ссылку для скачивания документа.</mj-text>
         <mj-text>Оплатить счет вы можете <a href="https://comfort-group.ru/"> в Личном кабинете </a> на официальном сайте или <a href="https://comfort-group.ru/"> в мобильном приложении Группы Комфорт</a>.</mj-text>
         <mj-text>Благодарим Вас за использование наших дистанционных сервисов.</mj-text>
       </mj-column>
