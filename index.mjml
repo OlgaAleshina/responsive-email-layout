@@ -2,8 +2,8 @@
   <mj-head>
     <mj-title>Единый платёжный документ за январь</mj-title>
     <mj-attributes>
-      <mj-text font-size="16px" font-family="Tahoma" color="#000000" line-height="22px" />
-      <mj-class name="header" font-size="25px" color="#06007c" align="center" />
+      <mj-text font-size="16px" font-family="Verdana" color="#000000" line-height="22px" />
+      <mj-class name="header" font-size="23px" color="#06007c" align="center" />
       <mj-class name="link" color="#06007c"/>
       <mj-class name="divider" padding-bottom= "0px" border-color="#F45E43" border-width="2px" width="400px" />
       <mj-class name="orange-block" background-color="#F45E43" border-radius="10px" padding="4px" /> 
@@ -24,7 +24,7 @@
       
     <mj-section>
       <mj-column>
-        <mj-text mj-class="header"><strong>Единый платежный документ за январь</strong></mj-text>
+        <mj-text mj-class="header"><strong>Единый платёжный документ за январь</strong></mj-text>
         <mj-spacer height="20px" />
         <mj-text><strong>Уважаемый клиент!</strong></mj-text>
         <mj-text>Направляем Вам <a href="https://comfort-group.ru/"> Единый платёжный документ за январь 2020 года</a> по лицевому счету 00000000012345. Нажмите ссылку для скачивания документа.</mj-text>
