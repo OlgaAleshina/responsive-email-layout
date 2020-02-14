@@ -2,7 +2,7 @@
   <mj-head>
     <mj-title>Единый платежный документ за январь</mj-title>
     <mj-attributes>
-      <mj-text font-size="18px" font-family="sans-serif" color="#000000" line-height="22px" align="justify"/>
+      <mj-text font-size="16px" font-family="Tahoma" color="#000000" line-height="22px" />
       <mj-class name="header" font-size="27px" color="#06007c" align="center" />
       <mj-class name="link" color="#06007c"/>
       <mj-class name="divider" padding-bottom= "0px" border-color="#F45E43" border-width="2px" width="400px" />
@@ -16,7 +16,7 @@
       <mj-column width="150px">
         <mj-image padding = "0px" src="https://comfort-group.ru/assets/images/logo.png" alt='logo' />
       </mj-column>
-      <mj-column vertical-align = "bottom" width="450px">
+      <mj-column vertical-align = "bottom" width="400px">
         <mj-text line-height="20px"> АО "ВК Комфорт" <br /> 101000, г. Москва, ул. Мясницкая, дом 13, строение 10, этаж 3, комната 15</mj-text>
         <mj-divider mj-class="divider" />
       </mj-column>
@@ -24,17 +24,17 @@
       
     <mj-section>
       <mj-column>
-        <mj-text mj-class="header"><strong>Единый платежный документ за январь.</strong></mj-text>
+        <mj-text mj-class="header"><strong>Единый платежный документ за январь</strong></mj-text>
         <mj-spacer height="20px" />
         <mj-text><strong>Уважаемый клиент!</strong></mj-text>
-        <mj-text>Направляем Вам <a href="https://comfort-group.ru/"> Единый платежный документ за январь 2020</a> по лицевому счету 00000000012345. Нажмите ссылку для скачивания документа.</mj-text>
+        <mj-text>Направляем Вам <a href="https://comfort-group.ru/"> Единый платежный документ за январь 2020 года</a> по лицевому счету 00000000012345. Нажмите ссылку для скачивания документа.</mj-text>
         <mj-text>Оплатить счет вы можете <a href="https://comfort-group.ru/"> в Личном кабинете </a> на официальном сайте или <a href="https://comfort-group.ru/"> в мобильном приложении Группы Комфорт</a>.</mj-text>
         <mj-text>Благодарим Вас за использование наших дистанционных сервисов.</mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section padding = "0px" >
-      <mj-column background-color="#ccffee">
+      <mj-column background-color="#ccffff">
         <mj-text><span style="color:#F45E43"><strong>ВНИМАНИЕ!</strong></span>  C 22 по 24 февраля, а также с 7 по 9 марта, прием менеджерами клиентского сервиса в офисах на объектах осуществляться не будет по причине государственных праздников.</mj-text>
       </mj-column>
     </mj-section>
