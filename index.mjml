@@ -45,7 +45,7 @@
     
     <mj-section>
       <mj-column width="300px">
-        <mj-image src="https://i.postimg.cc/0QtBT0C5/laptop.png" alt='laptop'>
+        <mj-image src="https://i.postimg.cc/3JzHj064/page1.jpg" alt='laptop'>
       </mj-column>
       <mj-column width="300px">
         <mj-wrapper mj-class="orange-block" > <mj-text color="#FFFFFF"> Текущий баланс</mj-text> 
@@ -66,7 +66,7 @@
             
     <mj-section>
       <mj-column>
-        <mj-image src="https://i.postimg.cc/Zqx8BsGj/mobile-App.png" alt='mobile application'>
+        <mj-image src="https://i.postimg.cc/Zqx8BsGj/mobile-App.png" alt='mobile app'>
       </mj-column>
     </mj-section>
 
