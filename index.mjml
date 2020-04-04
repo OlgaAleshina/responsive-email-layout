@@ -14,11 +14,7 @@
 
     <mj-section>
       <mj-column width="150px">
-<<<<<<< HEAD
         <mj-image fluid-on-mobile='false' padding="0px" src="https://i.postimg.cc/Gtfs2Smv/image001-1.png" alt='logo' />
-=======
-        <mj-image padding="0px" src="https://i.postimg.cc/Gtfs2Smv/image001-1.png" alt='logo' />
->>>>>>> b1a683f68f995979b0f8973ace123f8f4fc016e4
       </mj-column>
       <mj-column vertical-align="bottom" width="400px">
         <mj-text font-size="15px" line-height="20px"> АО «ВК Комфорт» <br /> 101000, г. Москва, ул. Мясницкая, дом 13, строение 10, этаж 3, комната 15</mj-text>
